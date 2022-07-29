@@ -1,7 +1,6 @@
-- 👋 Hi, It's pritom
-- 👀 I’m interested in computer science.
-- 🌱 I’m currently learning C language.
-
+- 👋 Hey, It's pritom.Welcome😊
+- Hope you're doing well.
+- 
 
 
 <!---
