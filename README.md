@@ -1,11 +1,11 @@
-### 👋 Hey there! I'm [Pritom dam]
+### 👋 Hey there! I'm Pritom dam
 
 I'm a passionate **Django Developer** who loves crafting web applications and solving real-world problems. I have also worked on several projects using **PHP** and enjoy diving deep into **Data Structures and Algorithms (DSA)**.
 
 - 🔭 I’m currently working on **Django projects** and learning more about **deep learning**.
 - 🌱 Always exploring new technologies and frameworks.
 - 💬 Ask me about **Django, PHP, Python, and DSA**.
-- 📫 How to reach me: [pritomdam18@gmail.com] | [Your LinkedIn]
+- 📫 How to reach me: pritomdam18@gmail.com
 - ⚡ Fun fact: I love solving coding challenges on weekends!
 
 ---
