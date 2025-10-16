@@ -1,6 +1,6 @@
 ### 👋 Hey there! I'm Pritom dam
 
-I'm a passionate **Django Developer** who loves crafting web applications and solving real-world problems. I have also worked on several projects using **PHP** and enjoy diving deep into **Data Structures and Algorithms (DSA)**.
+I'm a passionate **Web Developer** who loves crafting web applications and solving real-world problems. I have also worked on several projects using **PHP** and enjoy diving deep into **Data Structures and Algorithms (DSA)**.
 
 - 🔭 I’m currently working on **Django projects** and learning more about **deep learning**.
 - 🌱 Always exploring new technologies and frameworks.
