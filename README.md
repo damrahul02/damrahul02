@@ -14,7 +14,7 @@ I'm a passionate **Django Developer** who loves crafting web applications and so
 
 **Languages & Frameworks:**
 - 💻 Python | PHP | JavaScript
-- 🌐 Django | Bootstrap | HTML5 | CSS3
+- 🌐 Django | Laravel | Bootstrap | HTML5 | CSS3
 - 🗄️ MySQL | PostgreSQL
 
 **Tools & Platforms:**
